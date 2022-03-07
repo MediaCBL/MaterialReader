@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MaterialReader.cpp.obj": [
+			"MaterialReader.cpp.obj",
+			"MaterialReaderActor.cpp.obj",
+			"MaterialReaderBPLibrary.cpp.obj"
+		],
+		"Module.MaterialReader.gen.cpp.obj": [
+			"MaterialReader.init.gen.cpp.obj",
+			"MaterialReaderActor.gen.cpp.obj",
+			"MaterialReaderBPLibrary.gen.cpp.obj"
+		]
+	}
+}

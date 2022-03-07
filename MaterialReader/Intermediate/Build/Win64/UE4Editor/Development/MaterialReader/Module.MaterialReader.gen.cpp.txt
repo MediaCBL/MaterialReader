@@ -1,0 +1,10 @@
+C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Plugins\MaterialReader\Intermediate\Build\Win64\UE4Editor\Development\MaterialReader\Definitions.MaterialReader.h
+C:/Users/philx/Documents/Unreal Projects/TestFlyingAI/Plugins/MaterialReader/Intermediate/Build/Win64/UE4Editor/Inc/MaterialReader/MaterialReader.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/philx/Documents/Unreal Projects/TestFlyingAI/Plugins/MaterialReader/Intermediate/Build/Win64/UE4Editor/Inc/MaterialReader/MaterialReaderActor.gen.cpp
+C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Plugins\MaterialReader\Source\MaterialReader/Public/MaterialReaderActor.h
+C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Plugins\MaterialReader\Source\MaterialReader\Public\MaterialReaderBPLibrary.h
+C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Plugins\MaterialReader\Intermediate\Build\Win64\UE4Editor\Inc\MaterialReader\MaterialReaderBPLibrary.generated.h
+C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Plugins\MaterialReader\Intermediate\Build\Win64\UE4Editor\Inc\MaterialReader\MaterialReaderActor.generated.h
+C:/Users/philx/Documents/Unreal Projects/TestFlyingAI/Plugins/MaterialReader/Intermediate/Build/Win64/UE4Editor/Inc/MaterialReader/MaterialReaderBPLibrary.gen.cpp

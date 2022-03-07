@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MaterialReader.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Intermediate\Build\Win64\TestFlyingAIEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Plugins\MaterialReader\Intermediate\Build\Win64\UE4Editor\Development\MaterialReader\Module.MaterialReader.cpp.obj"
+"C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Plugins\MaterialReader\Intermediate\Build\Win64\UE4Editor\Development\MaterialReader\Module.MaterialReader.gen.cpp.obj"
+"C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Plugins\MaterialReader\Intermediate\Build\Win64\UE4Editor\Development\MaterialReader\Default.rc2.res"
+/OUT:"C:\Users\philx\Documents\Unreal Projects\TestFlyingAI\Plugins\MaterialReader\Intermediate\Build\Win64\UE4Editor\Development\MaterialReader\UE4Editor-MaterialReader.lib"
